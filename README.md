@@ -1,1 +1,1 @@
-# CubUI-icons
+Cub Icons
